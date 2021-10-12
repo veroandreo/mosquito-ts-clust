@@ -117,7 +117,7 @@ i.sentinel.download settings=/home/veroandreo/sentinel \
 #
 
 
-r.in.nasadem username=veroandreo password=Vero1981# \
+r.in.nasadem username=username password=password \
   output=nasadem_cba resolution=30
 r.out.gdal in=nasadem_cba out=nasadem_cba.tif format=GTiff
 

@@ -1,13 +1,15 @@
 ## Spatial distribution of *Aedes aegypti* oviposition temporal patterns and their relationship with environment and dengue incidence
 
-This repo holds the scripts that we have developed to analyze weekly records  
-of mosquito eggs by means of time series clustering and its relation with 
+This repo holds the scripts that we have developed to analyze weekly records 
+of mosquito egg counts by means of time series clustering and its relation with 
 remote sensing derived variables and dengue incidence in Cordoba (Argentina).
 
-The manuscript has been submitted to the 
+The manuscript was published on October 9th, 2021 as part of the 
 [Special Issue](https://www.mdpi.com/journal/insects/special_issues/host_vector_pathogen) 
 "Impacts of Ecological Perturbations at the Host-Vector-Pathogen Interface 
-under Global Change" of Insects - MDPI.
+under Global Change" of Insects - MDPI. 
+
+Find the open access publication at: https://www.mdpi.com/2075-4450/12/10/919
 
 ### Software 
 
